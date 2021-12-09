@@ -1,7 +1,7 @@
-# 𓆩ᧁꫝꪮ𝘴𝓽 ꪑꪊ𝘴𝓲ᥴ𓆪
+# 𓆩🕊️⃝𝐏𝐈𝐊𝐀𝐂𝐇𝐔 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𓆪
 
 <p align="center">
-  <img src="https://te.legra.ph/file/9ce1c6510f3d0ba654e4e.jpg">
+  <img src="https://telegra.ph/file/a68d184280888b3e7119a.jpg">
 </p>
 
 
@@ -63,18 +63,18 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝙳𝙰𝚁𝙺𝙰𝙼𝙰𝙽](https://t.me/DARKAMAN)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝙿𝙸𝙺𝙰𝙲𝙷𝚄](https://t.me/PIKACHU_BOT_OWNER)
 
 -------------------------------------------------
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝚄𝙺𝙾
 
-[![𝙶𝙷𝙾𝚂𝚃 𝙼𝚄𝚂𝙸𝙲](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FAMAN-GUJJAR%2FGHOST-TESTING)
+[![𝙿𝙸𝙺𝙰𝙲𝙷𝚄 𝙼𝚄𝚂𝙸𝙲](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FAMAN-GUJJAR%2FGHOST-TESTING)
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝚁𝙰𝙸𝙻𝚆𝙰𝚈 🚄
 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝚁𝙰𝙸𝙻𝚆𝙰𝚈 𝙼𝙰𝙺𝙴 [𝙽𝙴𝙲𝙴𝚂𝚂𝙰𝚁𝚈 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 𝙷𝙴𝚁𝙴](https://github.com/AMAN-GUJJAR/GHOST-TESTING), 𝚄 𝙷𝙰𝚅𝙴 𝚃𝙾 𝙵𝙸𝙻𝙻.
 
-[![ghost+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AMAN-GUJJAR/GHOST-TESTING&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ALIVE_NAME,ALIVE_IMG,BG_IMAGE,BOT_NAME,ASSISTANT_NAME,DATABASE_URL,LOG_CHANNEL,GROUP_SUPPORT,OWNER_ID,OWNER_NAME,PMPERMIT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![𝙿𝙸𝙺𝙰𝙲𝙷𝚄+𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝚁𝙰𝙸𝙻𝚆𝙰𝚈](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AMAN-GUJJAR/GHOST-TESTING&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ALIVE_NAME,ALIVE_IMG,BG_IMAGE,BOT_NAME,ASSISTANT_NAME,DATABASE_URL,LOG_CHANNEL,GROUP_SUPPORT,OWNER_ID,OWNER_NAME,PMPERMIT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 
 -------------------------------------------------
